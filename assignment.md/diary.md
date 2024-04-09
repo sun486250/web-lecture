@@ -7,5 +7,4 @@
 시맨틱 태그 (Semantic Tag)란?
 
 시맨틱 태그 (Semantic Tag)는 포함된 콘텐츠의 특정 의미를 정의하고 목적을 갖는 태그입니다.기존 HTML<div>태그의 기능과 마찬가지로 block element이면서 사이트의 구조(레이아웃)을 설계하기 위해 존재한다. 시맨틱 태그의 요소로는<header>,
-
-가나다라
+F1 git clone
