@@ -6,7 +6,7 @@ css에서 position 속성은 HTML 문서 상에서 요소가 배치되는 방식
 
 positon:static
 
-position 속성ㄷ을 별도로 지정해주지 않으면 기본값인 static이 적용됩니다.
+position 속성을 별도로 지정해주지 않으면 기본값인 static이 적용됩니다.
 position 속성이 static인 요소는 HTML 문서 상에서 원래 있어야하는 위치에 배치됩니다.
 
 position: relative
